@@ -1,54 +1,54 @@
 const teams = [
   {
     name: "Barcelona",
-    image: "assets/Barcelona.png",
+    image: "./assets/Barcelona.png",
     goals: 0,
     played: false,
   },
   {
     name: "R.Madrid",
-    image: "assets/Real Madrid.png",
+    image: "./assets/Real Madrid.png",
     goals: 0,
     played: false,
   },
   {
     name: "Sevilla",
-    image: "assets/Sevilla.gif",
+    image: "./assets/Sevilla.gif",
     goals: 0,
     played: false,
   },
   {
     name: "Real Betis",
-    image: "assets/Betis.gif",
+    image: "./assets/Betis.gif",
     goals: 0,
     played: false,
   },
   {
     name: "R.Sociedad",
-    image: "assets/Real Sociedad.gif",
+    image: "./assets/Real Sociedad.gif",
     goals: 0,
     played: false,
   },
   {
     name: "Valencia",
-    image: "assets/Valencia.gif",
+    image: "./assets/Valencia.gif",
     goals: 0,
     played: false,
   },
   {
     name: "Villareal",
-    image: "assets/Villarreal.gif",
+    image: "./assets/Villarreal.gif",
     goals: 0,
     played: false,
   },
   {
     name: "Levante",
-    image: "assets/Levante.gif",
+    image: "./assets/Levante.gif",
     goals: 0,
     played: false,
   },
-  { name: "Celta", image: "assets/Celta.gif", goals: 0, played: false },
-  { name: "Cadiz", image: "assets/Cadiz.gif", goals: 0, played: false },
+  { name: "Celta", image: "./assets/Celta.gif", goals: 0, played: false },
+  { name: "Cadiz", image: "./assets/Cadiz.gif", goals: 0, played: false },
 ];
 
 const results = [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 4, 4, 5];
